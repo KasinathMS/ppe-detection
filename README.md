@@ -66,3 +66,11 @@ results = model.train(
 - High accuracy with strong precision and recall.
 - Effective convergence as shown in training and validation loss curves.
 - Consistent detection performance in real-time testing.
+
+![Results](results.png)
+
+## Real-Time Detection 
+
+Watch the real-time detection output here:
+
+[![Watch the demo](https://img.youtube.com/vi/KL71hhqhj3g/0.jpg)](https://youtu.be/KL71hhqhj3g)
